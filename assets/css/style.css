@@ -5,7 +5,7 @@
   --primary-color-light: rgb(8, 140, 167);
 }
 
-* {
+*{
   box-sizing: border-box;
   outline: 0;
 }
@@ -15,6 +15,7 @@ body {
   padding: 0;
   background: url(../img/background1.png);
   background-size: cover;
+  background-repeat:no-repeat;
   background-position: center;
   font-family: 'Open sans', sans-serif;
   font-size: 1.3em;
